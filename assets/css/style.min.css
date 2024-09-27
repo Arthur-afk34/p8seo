@@ -15,7 +15,7 @@ body{max-width:1920px;margin:auto}
 .about-me__introduction{font-family:Spectral;font-weight:800;font-style:italic;width:60%}
 #about-me p{width:80%;font-size:14px}
 .title{text-align:center;padding-block:2em}
-.hidden-overflow{position: relative;top: -10000em;	color: #000;}
+.hidden-overflow{position: relative;top: -10000em;	color: #000;display: none;}
 .gallery .nav{justify-content:center}
 .nav-pills .nav-link.active,.nav-pills .show>.nav-link{color:#fff;background-color:#beb45a;border-radius:0}
 .nav-pills .nav-link{color:#000}

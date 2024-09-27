@@ -90,7 +90,13 @@ body {
 	font-size: 14px;
 }
 
-.hidden-overflow{position: relative;top: -10000em;	color: #000;}
+.hidden-overflow{
+	position: relative;
+	top: -10000px;	
+	color: #000;
+	display: none;
+
+}
 .title{
 	text-align: center;
 	padding-block: 2em;
