@@ -90,9 +90,7 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
+.hidden-overflow{position: relative;top: -10000em;	color: #000;}
 .title{
 	text-align: center;
 	padding-block: 2em;
